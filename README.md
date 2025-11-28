@@ -4,7 +4,7 @@
 
 - 🎓 I'm a student at **1337LEET coding school**
 - 💼 I'm currently working on school projects
-- 👩‍💻 I'm currently learning **C** programming language
+- 👩‍💻 I'm currently learning **C++** programming language
 - 📧 If you want to reach me: hajarmoukit0x5@gmail.com<br>
 <br>
 
