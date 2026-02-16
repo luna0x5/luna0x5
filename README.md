@@ -1,25 +1,38 @@
-# Hey 👋, I'm Hajar Moukit 🤗 
+# Hi there, I'm Hajar 👋
 
-<p><h4>Welcome to my GitHub profile! Here's a bit about me:</h4>
+🎯 **About Me**
+- 💻 Passionate about **AI**, **backend development**, and building full-stack projects.
+- 🚀 Currently working on: [ft_transcendence](https://github.com/yourusername/ft_transcendence) — a full-stack web app with AI-powered features.
+- 🌱 Learning more about **machine learning**, **FastAPI**, and **cloud deployment**.
+- 🧠 Interested in blending **AI with real-world applications** — from recommendation systems to chat assistants.
 
-- 🎓 I'm a student at **1337LEET coding school**
-- 💼 I'm currently working on school projects
-- 👩‍💻 I'm currently learning **C++** programming language
-- 📧 If you want to reach me: hajarmoukit0x5@gmail.com<br>
-<br>
+---
 
-### Languages and Tools 🔧⚙️:
-<div >
-	<table>
-		<tr>
-			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png" alt="C" title="C"/></code></td>
-			<td><code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa" alt="Linux" title="Linux"/></code></td>
-			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/></code></td>
-			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub"/></code></td>
-			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code"/></code></td>
-		</tr>
-	</table>
-</div>
+### ⚙️ Tech Stack
+**Languages:** Python • C • C++ • SQL • Bash  
+**Frameworks & Tools:** FastAPI • PostgreSQL • Docker • Nginx  
+**AI & ML:** TensorFlow • Scikit-learn • LangChain • groq API  
+**DevOps:** Git • Linux • Uvicorn 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=luna0x5&theme=dark&show_icons=true)](https://github.com/luna0x5)
-</p>
+---
+
+### 🧩 Projects
+- 🏓 **[ft_transcendence](https://github.com/yourusername/ft_transcendence)** – A multiplayer game platform with AI features.
+- 🤖 **AI-Service API** – RESTful microservice using FastAPI and OpenAI integration.
+- 💬 **Chat Assistant** – Custom LLM assistant trained for educational support.
+
+---
+
+### 📊 GitHub Stats
+![Hajar's GitHub stats](https://github-readme-stats.vercel.app/api?username=luna0x5&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luna0x5&layout=compact&theme=tokyonight)
+
+---
+
+### 💬 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/hajar-moukit-968331315/])
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your@email.com)
+
+---
+
+> “Code is like humor. When you have to explain it, it’s bad.” — Cory House
