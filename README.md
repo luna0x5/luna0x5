@@ -2,7 +2,7 @@
 
 🎯 **About Me**
 - 💻 Passionate about **AI**, **backend development**, and building full-stack projects.
-- 🚀 Currently working on: [ft_transcendence](https://github.com/yourusername/ft_transcendence) — a full-stack web app with AI-powered features.
+- 🚀 Currently working on: [ft_transcendence](https://github.com/YoTi1412/ft_transcendence) — a full-stack web app with AI-powered features.
 - 🌱 Learning more about **machine learning**, **FastAPI**, and **cloud deployment**.
 - 🧠 Interested in blending **AI with real-world applications** — from recommendation systems to chat assistants.
 
@@ -19,7 +19,6 @@
 ### 🧩 Projects
 - 🏓 **[ft_transcendence](https://github.com/yourusername/ft_transcendence)** – A multiplayer game platform with AI features.
 - 🤖 **AI-Service API** – RESTful microservice using FastAPI and OpenAI integration.
-- 💬 **Chat Assistant** – Custom LLM assistant trained for educational support.
 
 ---
 
@@ -31,7 +30,7 @@
 
 ### 💬 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/hajar-moukit-968331315/])
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hajarmoukit0x5@gmail.com)
 
 ---
 
