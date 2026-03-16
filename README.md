@@ -2,7 +2,7 @@
 
 🎯 **About Me**
 - 💻 Passionate about **AI**, **backend development**, and building full-stack projects.
-- 🚀 Currently working on: [ft_transcendence](https://github.com/YoTi1412/ft_transcendence) — a full-stack web app with AI-powered features.
+- 🚀 Currently learning about: **AI**.
 - 🌱 Learning more about **machine learning**, **FastAPI**, and **cloud deployment**.
 - 🧠 Interested in blending **AI with real-world applications** — from recommendation systems to chat assistants.
 
@@ -17,7 +17,7 @@
 ---
 
 ### 🧩 Projects
-- 🏓 **[ft_transcendence](https://github.com/yourusername/ft_transcendence)** – A multiplayer game platform with AI features.
+- 🏓 **ft_transcendence** – A multiplayer game platform with AI features.
 - 🤖 **AI-Service API** – RESTful microservice using FastAPI and OpenAI integration.
 
 ---
