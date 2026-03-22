@@ -1,37 +1,67 @@
-# Hi there, I'm Hajar 👋
+<!-- Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=warp&color=0D0D0D,1a0033&height=120&section=header&text=Hajar%20Moukit&fontSize=40&fontColor=9B59B6&animation=fadeIn" />
+</p>
 
-🎯 **About Me**
-- 💻 Passionate about **AI**, **backend development**, and building full-stack projects.
-- 🚀 Currently learning about: **AI**.
-- 🌱 Learning more about **machine learning**, **FastAPI**, and **cloud deployment**.
-- 🧠 Interested in blending **AI with real-world applications** — from recommendation systems to chat assistants.
-
----
-
-### ⚙️ Tech Stack
-**Languages:** Python • C • C++ • SQL • Bash  
-**Frameworks & Tools:** FastAPI • PostgreSQL • Docker • Nginx  
-**AI & ML:** TensorFlow • Scikit-learn • LangChain • groq API  
-**DevOps:** Git • Linux • Uvicorn 
+<p align="center">
+  <i>"I don't use tools. I understand them."</i>
+</p>
 
 ---
 
-### 🧩 Projects
-- 🏓 **ft_transcendence** – A multiplayer game platform with AI features.
-- 🤖 **AI-Service API** – RESTful microservice using FastAPI and OpenAI integration.
+### who am i
+
+- 🧠 Developer trained at **1337 (42 Network)** — systems, algorithms, raw C
+- 🤖 AI Intern at **Jobop.co** — LLMs, pipelines, real problems
+- 🎵 Music for focus. Anime for perspective. Philosophy for everything else.
+- 🎮 Gaming taught me systems thinking before code did
+- 🌌 Obsessed with how things work **under the hood** — in AI and in everything else
 
 ---
 
-### 📊 GitHub Stats
-![Hajar's GitHub stats](https://github-readme-stats.vercel.app/api?username=luna0x5&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luna0x5&layout=compact&theme=tokyonight)
+### what i work with
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,fastapi,docker,linux,git&theme=dark" />
+</p>
 
 ---
 
-### 💬 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/hajar-moukit-968331315/])
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hajarmoukit0x5@gmail.com)
+### currently
+
+- 🔭 Building AI systems at **Jobop.co**
+- 🌱 Going deep on LLMs, RAG, and AI Agents
+- 🧬 Most people use AI. I want to know why it works.
+- 📖 Reading anything that explains how intelligence — artificial or not — actually works
 
 ---
 
-> “Code is like humor. When you have to explain it, it’s bad.” — Cory House
+### 42 stats
+<p align="center">
+  <img src="https://badge42.vercel.app/api/v2/155876/stats?cursusId=21&coalitionId=76&style=dark" />
+</p>
+
+---
+
+### github stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=luna0x5&show_icons=true&theme=midnight-purple&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luna0x5&layout=compact&theme=midnight-purple&hide_border=true" />
+</p>
+
+---
+
+### find me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/hajar-moukit">
+    <img src="https://img.shields.io/badge/LinkedIn-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=9B59B6" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=warp&color=0D0D0D,1a0033&height=60&section=footer" />
+</p>
