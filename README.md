@@ -18,7 +18,14 @@
 ### what i work with
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,fastapi,docker,linux,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,fastapi,nextjs,docker,linux,git,sqlite,postgres,redis,prisma&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/vLLM-0D0D0D?style=for-the-badge&logo=vllm&logoColor=9B59B6" />
+  <img src="https://img.shields.io/badge/SQLAlchemy-0D0D0D?style=for-the-badge&logo=sqlalchemy&logoColor=9B59B6" />
+  <img src="https://img.shields.io/badge/Tesseract_OCR-0D0D0D?style=for-the-badge&logo=googlecloudstorage&logoColor=9B59B6" />
+  <img src="https://img.shields.io/badge/openpyxl-0D0D0D?style=for-the-badge&logo=python&logoColor=9B59B6" />
 </p>
 
 ---
